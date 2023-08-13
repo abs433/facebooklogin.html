@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+    background-image: url(./How-to-Create-Facebook-Login-Page-in-HTML-and-CSS.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+div{
+    margin-top: 145px;
+    margin-right: 20px;
+    margin-left: 700px;
+    border-radius: 10px;
+    box-shadow: brown 2px;
+    width: 400px;
+    height:370px ;
+    padding: 30px;
+    background-position: right;
+    background-color:white;
+
+}
+
+p{
+    text-align: center;
+
+}
+input{
+    margin: 10px;
+    border-radius:5px ;
+    width: 400px;
+    height: 45px;
+    size: 40;
+    background-color: white;
+}
+
+button{
+    color: honeydew;
+    margin-left: 100px;
+    background-color: green;
+    border-color:white;
+    border-radius:5px ;
+    width: 200px;
+    height: 40px;
+    
+    background-color: green;
+}
